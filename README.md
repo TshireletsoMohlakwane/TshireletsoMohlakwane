@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TshireletsoMohlakwane
-- 👀 I’m interested in Football and all things tech
-- 🌱 I’m currently learning Java/JavaScript/Python
+- 👋 Hi, I’m Tshireletso Mohlakwane.
+- 👀 I’m a Back-end Java Developer and interested in Science and Technology
+- 🌱 I’m currently learning JavaScript/Python/AWS
 - 📫 How to reach me || Cell : 074 569 0988 E-mail: tshiremohlakwane@gmail.com
 
 
